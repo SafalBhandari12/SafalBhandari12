@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safalbhandari12" alt="safalbhandari12" /></a> </p>
 
-- 💬 Ask me about **Machine Learning, AI**
+- 💬 Ask me about **Machine Learning, AI, Web Dev**
 
 - 📫 How to reach me **safalbhandari069@gmail.com**
 
