@@ -1,5 +1,5 @@
 <h1 align="center">Safal Bhandari — Data Scientist & Full-Stack Developer</h1>
-<p align="center">Building reliable web systems and production ML features. Focus on pragmatic, testable delivery.</p>
+<p align="center">Building reliable web systems and production ML features. Pragmatic. Testable. Production-focused.</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -8,7 +8,7 @@
 </p>
 
 ## About
-I design and ship full-stack applications and ML-driven features. I prefer clear APIs, robust pipelines, and responsive frontends. I work across the stack and move projects from prototype to production.
+I design and ship full-stack applications and ML-driven features. I prefer clear APIs, robust pipelines, and responsive frontends. I move projects from prototype to production.
 
 ## What I do
 - Build scalable APIs and modular microservices.  
@@ -19,11 +19,11 @@ I design and ship full-stack applications and ML-driven features. I prefer clear
 ## Selected Projects
 ### AI-powered English Learning Platform  
 **Stack:** Next.js · React · TypeScript · Node · PostgreSQL · Azure · AssemblyAI · Google Gemini  
-Live | GitHub: https://github.com/safalbhandari12/*(project-repo)*
+Live | GitHub: https://github.com/SafalBhandari12/englishLearningServer
 
 ### URL Shortener Service  
 **Stack:** Next.js · TypeScript · Express · PostgreSQL · Redis  
-Live | GitHub: https://github.com/safalbhandari12/*(project-repo)*
+Live | GitHub: https://github.com/SafalBhandari12/server_url_shortener
 
 (Full project list with links available on my GitHub.)
 
