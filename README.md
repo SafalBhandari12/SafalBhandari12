@@ -1,20 +1,75 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate Data Scientist and App Developer</h3>
+# Safal Bhandari — Data Scientist & Full-Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safalbhandari12" alt="safalbhandari12" /></a> </p>
-
-- 💬 Ask me about **Machine Learning, AI, Web Dev**
-
-- 📫 How to reach me **safalbhandari069@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/safal-bhandari-1456a32a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safal-bhandari-1456a32a6" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=safalbhandari12&theme=matrix&margin-w=15" alt="trophies" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## About
+Full-stack developer and data scientist. I build scalable web applications and production ML/AI features. I focus on reliable APIs, efficient data pipelines, and clean, responsive frontends. I prefer pragmatic, testable solutions and collaborative delivery.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safalbhandari12&show_icons=true&locale=en&layout=compact" alt="safalbhandari12" /></p>
+## Reach
+- Email: safalbhandari069@gmail.com  
+- Portfolio: https://safal-potfolio.vercel.app/  
+- LinkedIn: https://linkedin.com/in/safal-bhandari-1456a32a6  
+- GitHub: https://github.com/safalbhandari12
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safalbhandari12&show_icons=true&locale=en" alt="safalbhandari12" /></p>
+## Core Skills
+**Languages:** TypeScript · JavaScript · Python · SQL · Bash  
+**Frontend:** React · Next.js · Tailwind CSS · Radix UI · Framer Motion  
+**Backend:** Node.js · Express · REST APIs · WebSockets · JWT · Testing  
+**Data & ML:** Pandas · PyTorch · scikit-learn · TensorFlow · AssemblyAI integrations  
+**Databases & Cache:** PostgreSQL · MySQL · Redis · Prisma ORM  
+**DevOps & Tools:** Docker · Git · CI/CD · Azure · Cloudflare · Nginx  
+**Architecture:** Microservices · Event-driven systems · Message queues (BullMQ, RabbitMQ)
+
+## Selected Projects
+### AI-powered English Learning Platform
+**Stack:** Next.js, React, TypeScript, Node.js/Express, PostgreSQL, Azure, AssemblyAI, Google Gemini  
+- Real-time audio capture and streaming.  
+- Pronunciation scoring with Azure Cognitive Services.  
+- Secure auth, role control, and responsive dashboards.  
+- Live demo and source available on GitHub.
+
+### URL Shortener Service
+**Stack:** Next.js, TypeScript, Express, PostgreSQL, Redis  
+- Custom short URLs with configurable expirations.  
+- Click tracking, rate limiting, and Redis caching.  
+- Hardened security: bcrypt, Helmet, Zod validation.
+
+(Full project list and links on my GitHub.)
+
+## Professional Experience
+**Full Stack Developer Intern — Sojourn Pvt. Ltd**  
+*Jan 2025 – Present | Greater Noida, India*  
+- Built modular Express microservices and Next.js frontends for scalability.  
+- Implemented geofencing with Redis geospatial indexes for sub-10ms proximity checks.  
+- Integrated Twilio with BullMQ for resilient SMS workflows and retries.  
+- Offloaded heavy tasks to RabbitMQ reducing API latency by 40%.  
+- Tuned PostgreSQL queries and pooling to cut response times under load by 35%.
+
+## Education
+**B.Tech., Computer Science & Engineering** — Sharda University  
+COMPEX Scholarship recipient. Expected May 2027. CGPA: 9.21/10
+
+## Achievements
+- Top 20 / 4000 — ByteRunners Hackathon, IIT Delhi Tryst (2025)  
+- 30th / 2500 — IIIT Delhi Hack for Impact E-Summit (2025)  
+- Kharagpur Data Science Hackathon — strong participation (2025)  
+- 4th Place — Technovation Hackathon, Sharda University (2024)  
+- Participant — NASA Space Apps Challenge (2024)  
+- IIIT Bangalore Synergy’24 Certification (2024)
+
+## What I’m Open To
+- Full-time roles in backend, ML infra, or full-stack engineering.  
+- Short collaborations on ML/AI product features.  
+- Mentorship opportunities and technical peer reviews.
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safalbhandari12&show_icons=true&locale=en&layout=compact" alt="top languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=safalbhandari12&show_icons=true&locale=en" alt="github stats" />
+</p>
