@@ -1,4 +1,4 @@
-<h1 align="center">Safal Bhandari — Data Scientist & Full-Stack Developer</h1>
+<h1 align="center">Safal Bhandari</h1>
 <p align="center">Building reliable web systems and production ML features. Pragmatic. Testable. Production-focused.</p>
 
 <p align="center">
@@ -15,17 +15,6 @@ I design and ship full-stack applications and ML-driven features. I prefer clear
 - Integrate ML models and audio/streaming pipelines.  
 - Design responsive UIs and developer-friendly dashboards.  
 - Automate background processing and resilient workflows.
-
-## Selected Projects
-### AI-powered English Learning Platform  
-**Stack:** Next.js · React · TypeScript · Node · PostgreSQL · Azure · AssemblyAI · Google Gemini  
-Live | GitHub: https://github.com/SafalBhandari12/englishLearningServer
-
-### URL Shortener Service  
-**Stack:** Next.js · TypeScript · Express · PostgreSQL · Redis  
-Live | GitHub: https://github.com/SafalBhandari12/server_url_shortener
-
-(Full project list with links available on my GitHub.)
 
 ## Tech & Tools
 TypeScript · JavaScript · Python · React · Next.js · Node · Express · Tailwind · Prisma · PostgreSQL · Redis · Docker · Azure · RabbitMQ · BullMQ · PyTorch · scikit-learn
